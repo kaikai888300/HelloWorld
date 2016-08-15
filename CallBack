@@ -1,0 +1,6 @@
+package com.fndsoft.test.callback;
+
+public interface CallBack {
+
+	public void solve(String result);
+}
